@@ -70,7 +70,7 @@ Returns records with matching values in both tables.
 ```
 
 ### Explanation:
- Here select is used to extract data from different tables and e, d are used to represent the tables for our convenience and used inner join. Here department id is primary key , because it is unique for both the tables.
+Here select is used to extract data from different tables and e, d are used to represent the tables for our convenience and used inner join. Here department id is primary key , because it is unique for both the tables.
 
 
 ## Left Join
@@ -84,7 +84,7 @@ Returns all rows from the left table, along with matching rows from the right ta
 ```
 
 ### Explanation: 
-select keyword selects First_name and Last_name form Employee table and selects Department_name from Department table on a condition if Department_ID is equal.
+SELECT keyword selects First_name and Last_name form Employee table and selects Department_name from Department table on a condition if Department_ID is equal.
 
 
 ## Right Join
@@ -98,7 +98,7 @@ Returns all the rows of the table, along with matching rows from the left table.
 ```
 
 ### Explanation: 
-select keyword selects First_name and last_name from the Employee table and uses RIGHT JOIN on Department table on a condition if Department_ID is Equals on both the tables.
+SELECT keyword selects First_name and last_name from the Employee table and uses RIGHT JOIN on Department table on a condition if Department_ID is Equals on both the tables.
 
 
 ## Full Join
