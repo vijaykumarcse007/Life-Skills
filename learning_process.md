@@ -18,7 +18,7 @@ There is a saying that if you are working, do work. If you are playing, be a pla
 
 ## 4. What are the steps to take when approaching a new topic? 
 1. Deconstruct the skill.
-2. learn Just enough to self-correct
+2. Learn Just enough to self-correct
 3. Remove Barriers to practice
 4. Commit to at Least 20 Hours of Practice
 
