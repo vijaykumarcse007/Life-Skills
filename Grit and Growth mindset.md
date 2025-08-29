@@ -10,15 +10,22 @@ Internal Locus of Control is a strong belief that the outcome of something is be
 
 ## 4. What are the key points to build a growth mindset?
 There are a few key points to build a healthy growth mindset.
-    1. Belief in yourself that I can do this thing (or) achieve this thing on my own.
-    2. Question yourself always, why I'm not able to achieve this task.
-    3. Remove negative thoughts in the learning process. It prevents from having a growth
-mindset.
-    4. Honour Struggle we face in life. We have to accept failures and learn something from them.
+
+1. Belief in yourself that I can do this thing (or) achieve this thing on my own.
+2. Question yourself always, Why am I not able to achieve this task?
+3. Remove negative thoughts in the learning process. It prevents having a growth mindset.
+4. Honour Struggle we face in life. We have to accept failures and learn something from them.
 
 ## 5. What are your ideas to take action to build a Growth Mindset as a Software Developer?
 I definitely want to build a growth mindset to improve my knowledge and make life better. There are a few points that I want to mention.
-    - I will learn all the concepts that are need to learn to become a software engineer.
-    - I will take the responsibility for the code I developed and have full knowledge of it.
-    - I want to take a step towards a growth mindset, which helps me in my career and personal life to succeed.
-    - I will follow the Pomodoro technique to improve my knowledge to become a good Software Engineer.
+    
+- I will learn all the concepts that are need to learn to become a software engineer.
+- I will take the responsibility for the code I developed and have full knowledge of it.
+- I want to take a step towards a growth mindset, which helps me in my career and personal life to succeed.
+- I will follow the Pomodoro technique to improve my knowledge to become a good Software Engineer.
+
+## References:
+- [Girt](https://www.youtube.com/watch?v=H14bBuluwB8)
+- [Growth Mindset](https://www.youtube.com/watch?v=75GFzikmRY0)
+- [Internal Locus of Control](https://www.youtube.com/watch?v=8ZhoeSaPF-k)
+- [Build a Growth Mindset](https://www.youtube.com/watch?v=9DVdclX6NzY)
