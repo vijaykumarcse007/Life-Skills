@@ -73,7 +73,7 @@ I want  to code at least 2 Hours a day. For that, I will try to open the laptop 
 The Habit I want to eliminate is social media. I always open instagram to watch reels, and being more active in online. I try to avoid that habit by doing some other work and listening to  songs. 
 
 ### References:
-- [Youtube](https://www.youtube.com/watch?v=AdKUJxjn-R8)
-- [Youtube](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
-- [Youtube](https://www.youtube.com/watch?v=mNeXuCYiE0U)
-- [Youtube](https://www.youtube.com/watch?v=YT7tQzmGRLA)
+- [Tiny Habits ](https://www.youtube.com/watch?v=AdKUJxjn-R8)
+- [Tiny Habits by BJ Fogg - Core Message](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
+- [1% Better Every Day Video](https://www.youtube.com/watch?v=mNeXuCYiE0U)
+- [Book Summary of Atomic Habits](https://www.youtube.com/watch?v=YT7tQzmGRLA)
