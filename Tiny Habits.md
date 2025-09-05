@@ -71,3 +71,9 @@ I want  to code at least 2 Hours a day. For that, I will try to open the laptop 
 
 #### Answer:  
 The Habit I want to eliminate is social media. I always open instagram to watch reels, and being more active in online. I try to avoid that habit by doing some other work and listening to  songs. 
+
+### References:
+- [Youtube](https://www.youtube.com/watch?v=AdKUJxjn-R8)
+- [Youtube](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
+- [Youtube](https://www.youtube.com/watch?v=mNeXuCYiE0U)
+- [Youtube](https://www.youtube.com/watch?v=YT7tQzmGRLA)
